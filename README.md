@@ -93,10 +93,10 @@ scrapy crawl yahoo_archive -a old_streak_stop=15 -a scroll_wait_ms=300
 - 抓到筆數
 - 停止原因（例如 timeout / 正常收斂）
 
-## 面試官快速驗證
+## 流程使用
 
 ```powershell
-git clone <your-repo-url>
+git clone 
 cd Proj_yahoo_news
 python -m venv .venv
 .venv\Scripts\Activate.ps1
