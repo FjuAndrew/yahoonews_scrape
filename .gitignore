@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+yahoo_news/output.csv
+yahoo_news/test.csv
+yahoo_news/result_*.csv
