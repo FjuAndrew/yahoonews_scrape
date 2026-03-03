@@ -2,7 +2,7 @@
 
 Yahoo 台灣新聞爬蟲專案（`Scrapy + Playwright`），目標是抓取 `https://tw.news.yahoo.com/archive` 在指定時間窗（預設最近 1 小時）內的新聞資料，並輸出 CSV。
 
-## ※示範檔案result_20260226_1605~1705.csv在 /yahoonews/result_20260226_1605~1705.csv
+## ※示範檔案result_20260226_*.csv在 /yahoonews
 
 ## 功能重點
 
